@@ -1,21 +1,22 @@
-QA Engineer | Test Architecture
+QA Focado em Arquitetura de Testes Evitando que Bugs Aconteçam em Produção
+
+Investigo casos de testes muito além do happy path, encontrando bugs relevantes e de impacto, antes que sejam feitos os deploys.
 
 ## With a study focused on:
 
 DSA |
-Automation | 
 AI-driven Quality Engineering | 
 QA automation and test architecture |
-Data-driven quality |
-AI applied to QA |
 Scalable systems |
 Back-end/API/testing architecture |
-Git/GitHub |
-Playwright/Selenium/Cypress |
 CI/CD | 
+
+Git/GitHub |
+Playwright |
 Docker |
 Linux |
 SQL |
+English |
 
 ##
 
