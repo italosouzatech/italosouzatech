@@ -1,6 +1,6 @@
 # Ítalo Antônio
 
-### Quality Assurance | Test Automation | Quality Engineering
+### Quality Assurance | Software Development in Test | Quality Engineering
 
 Atuo com **Quality Assurance**, com foco em investigação de falhas, automação de testes e prevenção de regressões. Meu objetivo é contribuir para entregas mais confiáveis, identificando riscos antes que se tornem problemas para os usuários.
 
